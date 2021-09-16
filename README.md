@@ -1,16 +1,16 @@
-### Hi there 👋
+### About me...
 
-<!--
-**thaimynguyen/thaimynguyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I have been learning Python daily for 4 months
 
-Here are some ideas to get you started:
+⭐ I speak Vietnamese and English
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+😄 Pronouns: she/ her
+
+
+
+### Connect with me! 💬
+
+[<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/linkedin.png" title="LinkedIn">](https://www.linkedin.com/in/thaimynguyen/)  [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/github.png" title="Github">](https://github.com/thaimynguyen)
+
+### Email Me :e-mail:
+[<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/secured-letter.png" title="Mail me">](mailto:thaimynguyen@gmail.com)
