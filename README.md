@@ -1,8 +1,8 @@
 ### About me...
 
-🔭 I have been learning Python daily for 4 months
+🔭 Learning: Python & JavaScript
 
-⭐ I speak Vietnamese and English
+⭐ Languagues: Vietnamese and English
 
 😄 Pronouns: she/ her
 
