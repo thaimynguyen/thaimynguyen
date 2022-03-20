@@ -2,7 +2,7 @@
   
 <div style="position: relative">
 
-  <p align="right">
+  <p align="center">
     <a><img src="https://readme-typing-svg.herokuapp.com?size=24&lines=Amy+Nguyen"></a>
   </p>
 
