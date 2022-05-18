@@ -24,11 +24,6 @@
       <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" /> 
       <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
       <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=sqlr&logoColor=white" />
-      <img src="https://img.shields.io/badge/-Beautiful Soup-grey?style=for-the-badge" />
-      
-      
-
-      
    </p>
       
       
